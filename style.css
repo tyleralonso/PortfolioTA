@@ -54,3 +54,36 @@ nav a:first-child {
     height: auto;
     margin-top: 10px;
     margin-right: 25px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.auth-image {
+    float: left;
+    width: 200px;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 25px;
+}
+
+.work { 
+    position: relative;
+    float: left;
+    width: 274px;
+    margin: 20px 0 25px;
+    overflow: auto;
+    
